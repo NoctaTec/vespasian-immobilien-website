@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vespasian-immobilien.de/sitemap.xml
+Sitemap: https://www.vespasian-immobilien.de/sitemap.xml
